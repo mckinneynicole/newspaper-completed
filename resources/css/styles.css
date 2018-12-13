@@ -1,0 +1,141 @@
+body {
+  background-color: #f7f7fa;
+}
+
+.title {
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  font-size: 35px;
+  float: right;
+  /*background-color: orange; */
+
+}
+
+.banner {
+  width: 100%;
+  height: 200px;
+  border: black;
+  border-width: 50px;
+}
+
+h1{
+  margin: 1.2%
+}
+
+
+.news {
+  text-align: center;
+}
+
+
+
+.methlady {
+  float: right;
+  padding-left: 2.5%;
+}
+
+.dog {
+  padding-left: 7%
+}
+
+.nav {
+  text-align: center;
+  font-size: 40px;
+}
+
+.line1 {
+background-color: black;
+width: 1020px;
+height: 2px;
+margin: 0px auto;
+}
+
+.line2 {
+  background-color: black;
+  width: 1100px;
+  height: 2px;
+  margin: 0px auto;
+  margin-top: 8px;
+}
+
+/*.art-line1 {
+background-color: black;
+width: 300px;
+height: 1px;
+margin: 0px auto;
+} */
+
+.articles {
+  border: red 1px;
+  width: 100%;
+  height: 800px;
+  /* background-color: red; */
+  margin: 0 auto;
+}
+
+h4 {
+  text-align: center;
+  font-style: oblique;
+  font-size: 19px;
+  margin-bottom: 8px;
+/*  margin-top: 0px;*/
+text-decoration: underline;
+text-underline-position: under;
+}
+.footer {
+  width: 100%;
+  height: 200px;
+ background-color: lightgray;
+/*  border: solid 2px black; */
+float: right;
+margin-bottom: 10px;
+}
+
+.footer-line {
+  width:100%;
+  height: 2px;
+  background-color: black;
+
+}
+
+.column {
+  width: 30%;
+  height: 765px;
+  margin: 1.2%;
+  /* background-color: yellow; */
+  float: left;
+margin-right: 40.25px;
+}
+
+.column-methlady {
+  width: 30%;
+  height: 765px;
+  margin: 1.2%;
+  /* background-color: yellow; */
+  float: left;
+margin-right: 40.25px;
+margin-top: 100px;
+}
+
+
+
+.Miracle-grow {
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+
+.logo{
+
+
+}
+
+.info{
+  float: left;
+  margin-top: 60px;
+  padding-right: 25px;
+  padding-left: 35%;
+  font-family: fantasy;
+}
